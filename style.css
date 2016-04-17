@@ -1,0 +1,61 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    font-family: Open Sans, Arial, Helvetica, Helvetica Neue, sans-serif;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    font-size: 17px;
+    line-height: 28px;
+    background: rgba(16, 18, 43, 1);
+}
+.container {
+    position: absolute;
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+.main {
+    display: table-cell;
+    vertical-align: middle;
+}
+.content {
+    width: 550px;
+    margin: 0 auto;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: rgba(255, 255, 255, 1);
+}
+h1 {
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0;
+    margin-bottom: 25px;
+}
+img {
+    max-width: 100%;
+    margin: 25px 0;
+}
+a {
+    color: rgba(13, 208, 254, 1);
+    text-decoration: none;
+}
+a:hover {
+    color: rgba(13, 208, 254, .6);
+}
+pre {
+    border: 1px dashed #ccc;
+    padding: 30px;
+    color: rgba(255, 255, 255, 1);
+}
+.links a {
+    margin-right: 10px;
+}
+p a {
+  color: rgba(255, 255, 255, 1);
+  text-decoration: underline;
+}
+p a:hover {
+  color: rgba(255, 255, 255, .6);
+}
