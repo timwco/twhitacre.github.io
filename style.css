@@ -44,6 +44,7 @@ a {
 a:hover {
     color: rgba(13, 208, 254, .6);
 }
+/* Pre */
 pre {
     border: 1px dashed #ccc;
     padding: 30px;
