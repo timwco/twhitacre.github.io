@@ -85,7 +85,7 @@ p {
 }
 
 a {
-	color: #131418; /* Link color */
+	color: rgba(79, 148, 203, 1); /* Link color */
 	text-decoration: none;
 	-webkit-transition: all 0.3s linear;
 	-moz-transition: all 0.3s linear;
@@ -94,7 +94,7 @@ a {
 	transition: all 0.3s linear
 }
 
-a:hover { color: #98c475; } /* Link hover color */
+a:hover { color: rgba(79, 148, 203, .7); } /* Link hover color */
 
 img {
 	max-width: 100%;
