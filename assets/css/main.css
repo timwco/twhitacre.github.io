@@ -61,3 +61,13 @@ h3 {
   font-weight: normal;
   font-family: 'Roboto', sans-serif;
 }
+
+@media screen and (max-width: 1500px) {
+  a { width: 33.33333333%; }
+}
+@media screen and (max-width: 900px) {
+  a { width: 50%; }
+}
+@media screen and (max-width: 600px) {
+  a { width: 100%; }
+}
