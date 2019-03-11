@@ -43,7 +43,7 @@ a div {
   height: 100%;
 }
 
-a div:hover {
+a div:hover, a div:active {
   background-color: #fff;
   transition: background-color .5s linear; 
 }
