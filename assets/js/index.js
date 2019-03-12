@@ -6,7 +6,7 @@ const sites = [
   { title: 'LinkedIn', class: 'li', link: 'https://linkedin.com/in/twhitacre', color: '#0173af', years: '', },
   { title: 'Speaker Deck', class: 'sd', link: 'https://speakerdeck.com/twhitacre', color: '#028c83', years: '', },
   { title: 'New Story', class: 'ns', link: 'https://newstorycharity.org/', color: '#1a1b1e', years: '', },
-  { title: '77Lines', class: '77', link: 'http://77lines.co', color: '#91c83e', years: '', },
+  { title: '77Lines', class: '77', link: 'http://77lines.xyz', color: '#000000', years: '', },
   { title: 'Follow Up', class: 'fu', link: 'https://wefollowup.app/', color: '#01bf86', years: '', },
   { title: 'Beard Shine', class: 'bs', link: 'https://beardshine.co/', color: '#645c50', years: '', },
   { title: 'Digital Scientists', class: 'ds', link: 'https://digitalscientists.com/', color: '#ff8f00', years: '2017-2018', },
