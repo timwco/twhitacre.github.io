@@ -48,18 +48,28 @@ a div:hover, a div:active {
   transition: background-color .5s linear; 
 }
 
+h1 {
+  position: absolute;
+  left: -6000px;
+  top: 0;
+}
+
 h2 {
   color: transparent;
   font-size: 0;
 }
 
 h3 {
+  display: none;
   position: absolute;
   bottom: 5%;
   right: 5%;
   font-size: 11px;
   font-weight: normal;
   font-family: 'Roboto', sans-serif;
+}
+a:hover h3 {
+  display: block;
 }
 
 @media screen and (max-width: 1500px) {
