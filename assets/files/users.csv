@@ -1,0 +1,2 @@
+email,first_name,last_name,owner,initial_password,view_organization,edit_organization,view_users,add_user,edit_user_details,remove_user,manage_recipient_definitions,view_recipients,create_recipient,edit_recipient,delete_recipient,view_surveys,create_survey,edit_survey,delete_survey,manage_survey_submissions,view_submissions,create_submission,edit_submission,delete_submission,manage_questions
+nery.marquez@yahoo.com,Nery,Marquez,FALSE,elespino,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
